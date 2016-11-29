@@ -63,7 +63,10 @@
     { type: 'naive', id: 'simulacra', url: './simulacra/index.html', label: 'DBMON Simulacra' },
     { type: 'optimized', id: 'simulacra', url: './simulacra/opt.html', label: 'DBMON Simulacra' },
     { type: 'optimized', id: 'dio', url: './dio/index.html', label: 'DBMON DIO.js' },
-    { type: 'optimized', id: 'redom', url: './redom/index.html', label: 'DBMON RE:DOM' }
+    { type: 'optimized', id: 'redom', url: './redom/index.html', label: 'DBMON RE:DOM' },
+    { type: 'naive', id: 'treant-virtual-dom', url: './treant/virtual-dom.html', label: 'DBMON Treant VirtualDom' },
+    { type: 'naive', id: 'treant-snabbdom', url: './treant/snabbdom.html', label: 'DBMON Treant Snabbdom' },
+    { type: 'naive', id: 'treant-react', url: './treant/react.html', label: 'DBMON Treant React' }
   ];
 
   function Library() {
